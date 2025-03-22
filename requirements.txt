@@ -1,0 +1,15 @@
+opencv-python
+langchain
+langchain-openai
+langchain_google_genai
+langchain-community
+python-dotenv
+pyaudio
+soundfile
+SpeechRecognition
+# SpeechRecognition[whisper-local]  # Commented out since we're using Google Speech instead
+aiohttp==3.7.4.post0
+PyAudio==0.2.13
+pydub==0.25.1
+websockets==10.3
+google-cloud-speech
